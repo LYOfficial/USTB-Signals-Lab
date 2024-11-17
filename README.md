@@ -1,6 +1,10 @@
 # USTB-Signals-Lab
 > USTB 自动化学院《信号与系统分析实验》指导与理论图像Python模拟
 
+![](https://img.shields.io/github/license/LYOfficial/USTB-Signals-Lab) [![Page Views Count](https://badges.toozhao.com/badges/01JCWXQPKZ8HF3HJ3ERENK3T4N/green.svg)](https://badges.toozhao.com/stats/01JCWXQPKZ8HF3HJ3ERENK3T4N) ![](https://img.shields.io/github/stars/LYOfficial/USTB-Signals-Lab)
+
+**欢迎点击 “Star” 按钮来支持我们的编写。**
+
 ### 前言
 
 本人作为一个《信号与系统》原课程没怎么学好就直接去做实验的人，做起实验来非常头疼，做完之后有了些经验，于是做了这个仓库，希望能帮助后面的同学。
